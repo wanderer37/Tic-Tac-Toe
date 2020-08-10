@@ -1,1 +1,1 @@
-#tic tac toe using git command line
+The famous and old game of tic-tac-toe implemented using Python. :)
